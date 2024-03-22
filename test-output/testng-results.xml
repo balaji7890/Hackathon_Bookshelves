@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-22T16:17:10 IST" name="Suite" finished-at="2024-03-22T16:19:22 IST" duration-ms="131955">
+    <groups>
+    </groups>
+    <test started-at="2024-03-22T16:17:10 IST" name="chrometest" finished-at="2024-03-22T16:19:07 IST" duration-ms="117366">
+      <class name="testCases.TC_002_GiftCard">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:17:52 IST" name="setup" finished-at="2024-03-22T16:18:04 IST" duration-ms="11471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GiftCardPageData()[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:18:04 IST" name="GiftCardPageData" finished-at="2024-03-22T16:18:14 IST" duration-ms="10056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCardPageData -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:18:15 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:20 IST" duration-ms="5799" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravigmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543280"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453310"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:18:20 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:27 IST" duration-ms="6535" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["0876543210"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453510"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:18:27 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:37 IST" duration-ms="10089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543610"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kirangmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453610"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:18:37 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:42 IST" duration-ms="5336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543210"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["123456789"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:18:42 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:48 IST" duration-ms="5220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543710"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453810"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["543210"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:18:48 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:19:03 IST" duration-ms="15467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543810"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453910"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_GiftCard@6743e411]" started-at="2024-03-22T16:19:03 IST" name="tearDown" finished-at="2024-03-22T16:19:07 IST" duration-ms="4146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_GiftCard -->
+      <class name="testCases.TC_001_BookShelves">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_BookShelves@6989da5e]" started-at="2024-03-22T16:17:10 IST" name="setup" finished-at="2024-03-22T16:17:23 IST" duration-ms="12562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bookShelvesCount()[pri:0, instance:testCases.TC_001_BookShelves@6989da5e]" started-at="2024-03-22T16:17:23 IST" name="bookShelvesCount" finished-at="2024-03-22T16:17:47 IST" duration-ms="24308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookShelvesCount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_BookShelves@6989da5e]" started-at="2024-03-22T16:17:47 IST" name="tearDown" finished-at="2024-03-22T16:17:52 IST" duration-ms="5111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_BookShelves -->
+    </test> <!-- chrometest -->
+    <test started-at="2024-03-22T16:17:10 IST" name="edgetest" finished-at="2024-03-22T16:19:22 IST" duration-ms="131955">
+      <class name="testCases.TC_002_GiftCard">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:17:53 IST" name="setup" finished-at="2024-03-22T16:18:03 IST" duration-ms="10018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GiftCardPageData()[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:18:03 IST" name="GiftCardPageData" finished-at="2024-03-22T16:18:35 IST" duration-ms="31761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftCardPageData -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:18:35 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:41 IST" duration-ms="5969" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravigmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543280"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453310"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:18:41 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:47 IST" duration-ms="5533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["0876543210"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453510"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:18:47 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:52 IST" duration-ms="5380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543610"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kirangmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453610"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:18:52 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:18:57 IST" duration-ms="4990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543210"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["123456789"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:18:57 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:19:02 IST" duration-ms="5011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543710"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453810"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["543210"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:19:02 IST" name="test2" data-provider="dp" finished-at="2024-03-22T16:19:17 IST" duration-ms="15293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ravikumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA["9876543810"]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["9876453910"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["500032"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_GiftCard@3bd82cf5]" started-at="2024-03-22T16:19:17 IST" name="tearDown" finished-at="2024-03-22T16:19:22 IST" duration-ms="4512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_GiftCard -->
+      <class name="testCases.TC_001_BookShelves">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_BookShelves@fa4c865]" started-at="2024-03-22T16:17:10 IST" name="setup" finished-at="2024-03-22T16:17:26 IST" duration-ms="15667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bookShelvesCount()[pri:0, instance:testCases.TC_001_BookShelves@fa4c865]" started-at="2024-03-22T16:17:26 IST" name="bookShelvesCount" finished-at="2024-03-22T16:17:47 IST" duration-ms="21288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookShelvesCount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_BookShelves@fa4c865]" started-at="2024-03-22T16:17:47 IST" name="tearDown" finished-at="2024-03-22T16:17:53 IST" duration-ms="5747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_BookShelves -->
+    </test> <!-- edgetest -->
+  </suite> <!-- Suite -->
+</testng-results>
